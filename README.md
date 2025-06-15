@@ -7,7 +7,7 @@ Disclaimer! This tool will not rip any textures from a game! You need to use oth
 ![image](https://github.com/user-attachments/assets/e9af20ff-23c9-4336-a479-b32dd47bab8e)
 
 After you have access to the textures from source 2 Hammer this will look for all VMAT material and creates a list of names and paths 
-then you can use this Blender plugin which will create a material library from those textures 
+then you can use this (https://github.com/Conflig/BlnederS2Library) Blender plugin which will create a material library from those textures 
 
 You can go one step further and use my other plugin https://github.com/Conflig/source2_model_exporter which will allow you seamless workflow between Blender and Source 2 hammer. 
 
