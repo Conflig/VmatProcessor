@@ -14,6 +14,8 @@ You can go one step further and use my other plugin https://github.com/Conflig/s
 You can create your level or prop in blender hit export and all textures from the library will be properly displayed in hammer (If you have custom textures created just add them to the library and the name must be the same as in Hammer)
 
 
+Source 2 Viewer will export large PNG files so I would recommend to convert them into JPG with more compression. This will give you better performance in blender 
+
 
 
 
